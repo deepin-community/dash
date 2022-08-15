@@ -1,0 +1,1 @@
+{"project":"dash","type":"","version":"0.5.11+git20210903+057cd650a4ed-8","hierarchy":"base","priority":"","maintainer":"","packager":"","builddeps":" debhelper-compat (= 12), dpkg-dev (\u003e= 1.16.1), po-debconf, ","homepage":" http://gondor.apana.org.au/~herbert/dash/","git":"https://salsa.debian.org/debian/dash.git"}
